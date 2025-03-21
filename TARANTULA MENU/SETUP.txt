@@ -1,0 +1,40 @@
+  _______       _____            _   _ _______ _    _ _               
+ |__   __|/\   |  __ \     /\   | \ | |__   __| |  | | |        /\    
+    | |  /  \  | |__) |   /  \  |  \| |  | |  | |  | | |       /  \   
+    | | / /\ \ |  _  /   / /\ \ | . ` |  | |  | |  | | |      / /\ \  
+    | |/ ____ \| | \ \  / ____ \| |\  |  | |  | |__| | |____ / ____ \ 
+    |_/_/    \_\_|  \_\/_/    \_\_| \_|  |_|   \____/|______/_/    \_\
+                                                                      
+                                                                      
+
+thank you for downloading TarantulaMenu you will need to have Fabric installed
+HOW 2 INSTALL FABRIC
+
+Step1. GOTO https://fabricmc.net/ TO DOWNLOAD FABRIC LOADER
+Step2. put WIN+R and run should popup.
+Step3. type in %appdata%/.Minecraft then enter.
+Step4. left-click the .Minecraft and click copy address.
+Step5. Run Fabric loader and CTRL+V into select file.
+Step6. once fabric is installed goto %appdata%/.minecraft/mods and go back to https://fabricmc.net/ and download the Fabric API.
+Step7. now go in %appdata%/.Minecraft/mods and drag the Fabric api Into the folder
+
+
+Good. now you have Fabric installed
+
+put TarantulaMenu in %appdata%/.Minecraft/mods and when you launch Minecraft Launcher click on versions you'll See FABRIC
+click on the Fabric version and click launch (HAVE FUN (:! ) 
+
+
+
+
+
+
+
+
+IF YOU EXPERIENCE DIFFICULTIES WITH THE MENU
+
+1. restart your computer
+2. turn off anti-virus
+3. reopen Minecraft
+4. the version must be 1.21.4
+5. not compatible pc this menu is made for windows 10 or higher (10 is best for compatability)
